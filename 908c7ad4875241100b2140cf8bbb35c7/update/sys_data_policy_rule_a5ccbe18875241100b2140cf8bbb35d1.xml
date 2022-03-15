@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>requester</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 00:27:36</sys_created_on>
+        <sys_data_policy display_value="Sets the Requester field to mandatory">e9ccbe18875241100b2140cf8bbb35ce</sys_data_policy>
+        <sys_id>a5ccbe18875241100b2140cf8bbb35d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>requester</sys_name>
+        <sys_package display_value="Wish List" source="x_781433_wish_list">908c7ad4875241100b2140cf8bbb35c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">908c7ad4875241100b2140cf8bbb35c7</sys_scope>
+        <sys_update_name>sys_data_policy_rule_a5ccbe18875241100b2140cf8bbb35d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 00:27:36</sys_updated_on>
+        <table>x_781433_wish_list_wish_item</table>
+    </sys_data_policy_rule>
+</record_update>
